@@ -103,7 +103,7 @@ const Navbar = ({ window }: Props) => {
 					>
 						<Image src={'favicon.svg'} alt={'logo'} width={50} height={50} />
 						<Typography variant='h5' component={'div'}>
-							Sammi
+							Sherz blog
 						</Typography>
 					</Box>
 					<Box sx={{ display: { xs: 'none', sm: 'block' } }}>
